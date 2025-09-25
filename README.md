@@ -1,2 +1,0 @@
-# ment.tec
-ment.tec
